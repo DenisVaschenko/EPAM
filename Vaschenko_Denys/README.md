@@ -27,7 +27,7 @@ CodeWars utilizes a rank system to measure your coding skills. Starting at a beg
 
 * User-Created Katas: CodeWars allows users to create their own katas and share them with the community. This feature promotes user engagement and enables the community to continually generate new coding challenges, ensuring a diverse range of learning opportunities.
 # Katas
-![Kata](./img/kata.png)
+![Kata](./img/Kata.png)
 * Finding and Selecting a Kata
 * CodeWars offers a vast collection of katas covering various programming topics and difficulty levels. To find a kata, use the search bar or browse the available categories. Once you find a kata of interest, click on it to access the kata details page.
 
