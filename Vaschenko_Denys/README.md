@@ -5,18 +5,18 @@ variety of coding exercises, ranging from beginner to advanced difficulty
 levels, in multiple programming languages such as Python, JavaScript, Java,
 Ruby, and more. Codewars is a place where you can proof your programming skills
 and compete against other users.
-![MainImage](/img/CodeWars.png)
+![MainImage](./img/CodeWars.png)
 # Getting Started
 **Creating an Account**
 
 To begin your CodeWars journey, you need to create an account on the CodeWars website. Follow the registration process, provide the necessary details, and set up your login credentials.
 
 **Choosing a Programming Language**
-![Lanuages](/img/Languages.png)
+![Lanuages](./img/Languages.png)
 CodeWars supports multiple programming languages. After creating an account, choose your preferred programming language to start solving katas in that specific language. You can switch between languages at any time.
 
 **Understanding Ranks**
-![RankingSystem](/img/RankingSystem.png)
+![RankingSystem](./img/RankingSystem.png)
 CodeWars utilizes a rank system to measure your coding skills. Starting at a beginner level, represented by a higher kyu number (e.g., 8 kyu), you can progress by solving katas and earning lower kyu ranks (e.g., 7 kyu, 6 kyu, and so on). The lower the kyu number, the higher your skill level.
 # Features
 * Coding Challenges (Katas): CodeWars offers a vast collection of coding challenges called "katas" that cover various programming topics and difficulty levels. Users can solve these challenges to improve their coding skills and learn new concepts.
@@ -27,7 +27,7 @@ CodeWars utilizes a rank system to measure your coding skills. Starting at a beg
 
 * User-Created Katas: CodeWars allows users to create their own katas and share them with the community. This feature promotes user engagement and enables the community to continually generate new coding challenges, ensuring a diverse range of learning opportunities.
 # Katas
-![Kata](/img/kata.png)
+![Kata](./img/kata.png)
 * Finding and Selecting a Kata
 * CodeWars offers a vast collection of katas covering various programming topics and difficulty levels. To find a kata, use the search bar or browse the available categories. Once you find a kata of interest, click on it to access the kata details page.
 
@@ -40,7 +40,7 @@ After solving a kata, submit your solution on the kata page. Ensure your code fo
 Reviewing Solutions
 CodeWars encourages community interaction and learning from each other. You can review and compare other users' solutions on the kata page. Study different approaches, analyze code optimizations, and gain insights into alternative solutions.
 # Community Interaction
-![Community](/img/Community.png)
+![Community](./img/Community.png)
 * Discussions and Comments
 Engage in discussions and comment threads on katas and solutions. Share your thoughts, ask questions, and learn from other developers. Contribute to the community by providing helpful insights, discussing different approaches, and promoting collaboration.
 
